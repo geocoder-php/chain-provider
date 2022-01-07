@@ -2,6 +2,12 @@
 
 The change log describes what is "Added", "Removed", "Changed" or "Fixed" between each release.
 
+## 4.4.0
+
+### Added
+
+- Allow `psr/log` 2.0 and 3.0
+
 ## 4.3.0
 
 ### Added
